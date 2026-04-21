@@ -36,5 +36,10 @@ The simulation demonstrates:
 3. Run:
    python analysis.py
 
+## 🔬 Future Improvements
+- Use real-world datasets (weather APIs)
+- Apply regression models
+- Extend to multi-variable analysis
+  
 ## 🎯 Author
 Desire Igweze
