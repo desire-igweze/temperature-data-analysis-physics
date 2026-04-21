@@ -6,9 +6,9 @@ This project analyzes temperature variation over a 24-hour period using simulate
 The dataset combines periodic behavior (sinusoidal function) with random noise to mimic real-world environmental conditions.
 
 ## ⚙️ Methods
-- Time-series data simulation
-- Statistical analysis (mean, max, min)
-- Data visualization using matplotlib
+- Generated time-series data using sinusoidal function
+- Added random noise to simulate real-world variability
+- Performed statistical analysis
 
 ## 📊 Results
 The simulation demonstrates:
